@@ -1,3 +1,5 @@
+Reading assingment due March 30, 2020
+
 HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
 
 Most HTML elements contain opening and closing tags with raw text or other HTML tags between them.
@@ -35,7 +37,7 @@ Whitespace between HTML elements helps make code easier to read while not changi
 
 Indentation also helps make code easier to read. It makes parent-child relationships visible.
 
-Comments are written in HTML using the following syntax: <!-- comment -->.
+Comments are written in HTML using the following syntax: .
 
 Need more explanation on <meta> and <iframe> (is it used still?)
 
